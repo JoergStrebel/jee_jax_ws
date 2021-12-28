@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71925e64-c93b-4790-a502-28300b21e105" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../processdata/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../processdata/src/Processdata_JdbcRDD.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyspark-test" beforeDir="false" afterPath="$PROJECT_DIR$/../pyspark-test" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/share/maven" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="22h97yUR20hARwW0ab8id2TxfVq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rest-ws" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="jee_jax_ws [package,install]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="429" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1640280563997">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="429" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1640280563997" />
+    <state x="747" y="279" key="FileChooserDialogImpl" timestamp="1640279520588">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="747" y="279" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1640279520588" />
+    <state width="1874" height="277" key="GridCell.Tab.0.bottom" timestamp="1640280793781">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1640280793781" />
+    <state width="1874" height="277" key="GridCell.Tab.0.center" timestamp="1640280793780">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1640280793780" />
+    <state width="1874" height="277" key="GridCell.Tab.0.left" timestamp="1640280793776">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1640280793776" />
+    <state width="1874" height="277" key="GridCell.Tab.0.right" timestamp="1640280793781">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1640280793781" />
+    <state x="460" y="156" key="SettingsEditor" timestamp="1640278993312">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="460" y="156" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1640278993312" />
+  </component>
+</project>
